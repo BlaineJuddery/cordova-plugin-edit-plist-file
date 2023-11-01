@@ -40,7 +40,10 @@
                 <key>NSLocationWhenInUseUsageDescription</key>
                 <string>We access your location to improve your experience.</string>
                 <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-                <string>We access your location to improve your experience.</string>
+                <string>We access your location to allow for job locations to be added to submitted reports.</string>
+                <key>NSPhotoLibraryUsageDescription</key>
+                <string>We access your photo library to allow for images to be uploaded to submitted job reports.</string>
+                
                 
             </dict>
         </config-file>
